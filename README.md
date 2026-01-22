@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Aswin YP
 
-<!--
-**aswin-yp/aswin-yp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Scientist | Machine Learning  
+Focused on building end-to-end ML & DL pipelines.
 
-Here are some ideas to get you started:
+### 🔹 Skills
+- Python, SQL, Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning & Deep Learning
+- PyTorch, scikit-learn, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Featured Projects
+- End-to-End CNN Image Classification
+- House Price Prediction (ML)
+- Superstore Sales Analysis
+- Global Layoffs SQL Analysis
+
+📫 LinkedIn: https://linkedin.com/in/aswinyp
